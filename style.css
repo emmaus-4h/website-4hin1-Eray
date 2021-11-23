@@ -1,4 +1,10 @@
-/* Basislayout */
+/* Basis instellingen */
+* {
+  border: solid 2px black
+  overflow: auto;
+  margin: 0px;
+  box-sizing: border-box;
+}
 
 html, body {
     height: 100%;

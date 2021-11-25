@@ -1,6 +1,6 @@
 /* Basis instellingen */
 * {
-  border: solid 2px black
+  border: solid 2px black;
   overflow: auto;
   margin: 0px;
   box-sizing: border-box;

@@ -29,7 +29,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: red;
     text-align: center;
 }
 
@@ -52,7 +52,7 @@ img.zweefLinks {
 }
 
 a {
-    color: skyblue;
+    color: red;
     text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: red;
 }
 
 

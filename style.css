@@ -39,12 +39,25 @@ footer {
     padding-bottom: 10px;
 }
 
+kolomlinks {
+   float: left:
+   width: 200px;
+
+}
+
+kolomRechts {
+   float: left;
+   width: calc (100%)
+
+}
+
+
 
 /* specifieke stijlen */
 
 plaatjelinks {
     float: left;
-    margin-right: 15px;
+    margin-left: 15px;
 }
 
 .smalltext {

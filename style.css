@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+article {
+   border: solid 2px red;
+}
+
 html, body {
     height: 100%;
     padding: 0;
@@ -39,14 +43,14 @@ footer {
     padding-bottom: 10px;
 }
 
-kolomlinks {
-   float: left:
+.tekstrechts {
+   float: right;
    width: 200px;
 
 }
 
-kolomRechts {
-   float: left;
+.kolomRechts {
+   float: right;
    width: calc (100%)
 
 }
@@ -55,7 +59,7 @@ kolomRechts {
 
 /* specifieke stijlen */
 
-plaatjelinks {
+.plaatjelinks {
     float: left;
     margin-left: 15px;
 }
@@ -103,6 +107,10 @@ nav li a.active {
     background-color: red;
 }
 
+.bg {
+/* The image used*/
+background-image
+}
 
 
 

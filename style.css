@@ -45,7 +45,7 @@ footer {
 
 .tekstrechts {
    float: right;
-   width: 200px;
+   width: 400px;
 
 }
 
@@ -61,7 +61,8 @@ footer {
 
 .plaatjelinks {
     float: left;
-    margin-left: 15px;
+    margin-left: 20px;
+    width: 500px;
 }
 
 .smalltext {

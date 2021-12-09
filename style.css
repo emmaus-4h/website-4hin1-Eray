@@ -113,5 +113,7 @@ nav li a.active {
 background-image
 }
 
-
-
+.tekstonder{
+  float: right;
+  width: 200px;
+}

@@ -45,7 +45,7 @@ footer {
 
 .tekstrechts {
    float: right;
-   width: 400px;
+   width: 412px;
 
 }
 
@@ -116,4 +116,12 @@ background-image
 .tekstonder{
   float: right;
   width: 200px;
+}
+
+.zweefLinks{
+  float: left;
+  width: 300px;
+
+
+  
 }

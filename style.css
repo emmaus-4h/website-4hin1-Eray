@@ -6,7 +6,7 @@ html, body {
     padding: 0;
     background-color: black;  
     
-    color: #ff0000;
+    color: white;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -24,7 +24,7 @@ article {
 
 
 header {
-    color: red;
+    color: blue;
     text-align: center;
 }
 
@@ -75,7 +75,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #ff0000;
+    background-color: blue;
     overflow: hidden;
 }
 
@@ -96,7 +96,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: green;
+    background-color: red;
 }
 
 .bg {

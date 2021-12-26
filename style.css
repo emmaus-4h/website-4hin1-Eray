@@ -1,16 +1,12 @@
-/* Basis instellingen */
 
 
-article {
-   border: solid 2px red;
-}
 
 html, body {
     height: 100%;
     padding: 0;
     background-color: #000000;  
     
-    color: #ffffff;
+    color: #ff0000;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -66,7 +62,7 @@ footer {
 
 a {
     color: red;
-    text-decoration: none;
+     text-decoration: none;
 }
 
 a:hover {
@@ -100,7 +96,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: red;
+    background-color: green;
 }
 
 .bg {

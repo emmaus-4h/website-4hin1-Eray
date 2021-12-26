@@ -8,9 +8,9 @@ article {
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: #000000;  
     
-    color: #303030;
+    color: #ffffff;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -79,7 +79,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #ff0000;
     overflow: hidden;
 }
 
@@ -96,7 +96,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #ffffff;
 }
 
 nav li a.active {

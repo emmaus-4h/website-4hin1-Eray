@@ -4,7 +4,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #000000;  
+    background-color: black;  
     
     color: #ff0000;
     font: Verdana, Arial, Sans-Serif;
@@ -124,4 +124,10 @@ width: 200px;
 .plaatjemidden{
  float: left;
  width: 280px; 
+}
+body {
+background-image: url("	https://wallpaperaccess.com/full/245492.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
 }
